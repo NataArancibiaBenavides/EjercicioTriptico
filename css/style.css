@@ -1,0 +1,143 @@
+.Cabeza{
+
+    position: relative;
+	height: 30px;
+	width: 800px;
+	background-color: #FDB00B;
+	border: 1px solid black;
+	}
+
+	.Cabeza h2{
+
+	font-family: serif;
+	font-size: medium;	
+	text-align:center; 
+	margin-bottom: 10px;
+    }
+	
+	.columna1 {
+		float: left;
+		top:100px;
+		left: 100px;
+		right: 0px;
+		width: 250px;
+		height:400px;
+		background-color:#FFFFFF;
+		border: 1px solid black;
+
+	}
+	.columna1 h2{
+		font-family: serif;
+		font-size: medium;
+		text-align: center;
+	}
+	.columna1 p{
+		margin-left: 35px;
+		margin-right: 35px;
+		font-family: serif;
+		font-size: medium;
+		text-align: justify;
+
+	}
+	.columna1 img{
+
+		width: 250px;
+		height:150px;
+		left: 180px
+		margin-left:35px;
+
+	}
+	.columna2 {
+		float: left;
+		top:100px;
+		width: 300px;
+		height:400px;
+		background-color:#FFFFFF;
+		border: 1px solid black;
+	}
+	.columna2 h2{
+		font-family: serif;
+		font-size: x-large;
+		text-align: center;
+		margin-top: 30px;
+		margin-left: 5px;
+		margin-bottom: 5px;
+
+	}
+	.columna2 p{
+
+		top:200px;
+		font-family: serif;
+		font-size: medium;
+		text-align: justify;
+		margin-top: 60px;
+		margin-left: 35px;
+		margin-right:35px;
+	}
+	.columna3{
+		float: left;
+		top:100px;
+		width: 245px;
+		height:400px;
+		background-color:#FFFFFF;
+		border: 1px solid black;
+	}
+	.columna3 h2{
+		font-family: serif;
+		font-size: medium;
+		text-align: center;
+		margin-top: 30px;
+		margin-left: 5px;
+		
+
+	}
+	.columna3 p{
+
+		top:200px;
+		font-family: serif;
+		font-size: medium;
+		text-align: justify;
+		margin-top: 30px;
+		margin-left: 35px;
+		margin-right:35px;
+	}
+	.columna3 img{
+
+		width: 150px;
+		height:100px;
+		left: 180px
+		margin-top:100px;
+		margin-left: 60px;
+
+	}
+	.piepag{
+		float: left;
+		top: 500px;
+		width: 800px;
+		height:40px;
+		background-color:#FDB00B;
+		border: 1px solid black;
+	}
+	.piepag h2{
+
+		font-family: serif;
+		font-size: medium;
+		text-align: center;
+		margin-top: center;
+		margin-left: 5px;
+		
+
+	}
+	.piepag span{
+		top:200px;
+		font-family: serif;
+		font-size: medium;
+		text-align: justify;
+		margin-top: 30px;
+		margin-left: 35px;
+		margin-right:35px;
+		color: #5A18D3;
+		text-decoration: underline; 
+	}
+
+
